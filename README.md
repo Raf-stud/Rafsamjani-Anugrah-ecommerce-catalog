@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ecommerce
 
 ## Project setup
@@ -17,3 +18,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Rafsamjani-Anugrah-ecommerce-catalog
+>>>>>>> e5aced4842d73d1347f95120cdb0365a41305b72
